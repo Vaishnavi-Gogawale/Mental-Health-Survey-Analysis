@@ -1,2 +1,5 @@
-# Mental-Health-Survey-Analysis
-Data Analysis Project on 173 Real-World Responses 📌 Project Overview This project is based on a primary field survey I conducted to investigate how Meditation and Ayurveda impact modern mental health management. Using Python, I analyzed 173 digital responses to identify trends in stress reduction and lifestyle habits.
+# Mental Health & Ayurveda Analysis"
+"This project analyzes 173 responses from my field survey on Meditation and Ayurveda."
+"Tools used: Python and Pandas."
+"survey tools: google form"
+"Data Format: CSV"
